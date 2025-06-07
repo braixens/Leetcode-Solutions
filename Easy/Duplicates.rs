@@ -1,4 +1,5 @@
 use std::collections::HashSet;
+
 impl Solution {
     pub fn contains_duplicate(nums: Vec<i32>) -> bool {
         // Create a Set to keep track of all numbers in vec 
