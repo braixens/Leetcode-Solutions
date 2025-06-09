@@ -23,3 +23,21 @@ impl Solution {
         false
     }
 }
+
+// vv original solution vv
+
+/* impl Solution {
+    pub fn contains_nearby_duplicate(nums: Vec<i32>, k: i32) -> bool {
+        
+        for i in 0..nums.len(){
+            for j in i+1..nums.len() {
+                if nums[j] == nums[i] 
+                && (i as i32 - j as i32).abs()<= k{
+                return true 
+                }
+               
+            }
+        } false          
+    }       
+}
+*/ // TOO SLOWWWWW
