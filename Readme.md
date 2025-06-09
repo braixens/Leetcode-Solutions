@@ -15,3 +15,13 @@ Solutions are categorized by DIFFICULTY as:
 In the future will probably add subcategories inside the folders based on the topic like Binary Search, Arrays, Hashing, Algorithms, and stuff like that
 
 For now each file in the folder will have the commit comment as the leetcode problem number, and the solution inside with comments. Most will be in rust, may start to include others as i branch out and learn more (probably would be c++) ^_^ !
+
+
+## Milestones 💫 (This summer im locking in trust)
+
+### 6/7/25 - First Problem (Easy) Done 🎬   
+### 6/9/25 - First Medium Problem Done 🆙
+### Current Streak 🔥 - 3 Days  
+### Most Problems in a Day 📈 - 4 Submissions  
+
+
