@@ -1,7 +1,7 @@
 # LeetCode Solutions
 ![image](https://github.com/user-attachments/assets/67c0c490-573b-4daa-8fcc-23b5928b5395)
 
-Welcome to my LeetCode solutions repo !  
+Welcome to my LeetCode solutions repo ! 
 
 Basically just keeping track of my solutions and stuff.
 
