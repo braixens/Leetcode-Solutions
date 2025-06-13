@@ -22,7 +22,7 @@ For now each file in the folder will have the commit comment as the leetcode pro
 ### 6/7/25 - First Problem (Easy) Done 🎬   
 ### 6/9/25 - First Medium Problem Done 🆙
 ### 6/10/25 - 10 Total Problems ! 🎉
-### Current Streak 🔥 - 5 Days  
+### Current Streak 🔥 - 6 Days  
 ### Most Problems in a Day 📈 - 4 Submissions  
 
 
